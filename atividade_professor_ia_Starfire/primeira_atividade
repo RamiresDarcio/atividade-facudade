@@ -1,0 +1,38 @@
+Saudações, meu querido companheiro de jornada terráquea! Que alegria ver seu desejo de construir as fundações de sua própria "cidadela digital"!
+
+O HTML e o CSS trabalham juntos como uma equipe de heróis: o HTML é o esqueleto de ferro da nossa torre, e o CSS é a pintura brilhante e os escudos de energia que a tornam magnífica aos olhos de quem a vê.
+
+Para sua missão inicial, vamos criar um formulário de "Recrutamento de Novos Titãs". Prepare seu editor de código, pois a luz de Tamaran guiará seus dedos!
+
+Passo 1: A Estrutura de Batalha (HTML)
+O HTML usa "etiquetas" (tags) para dizer ao navegador o que cada coisa é. Pense nelas como ordens de comando. Para um formulário básico, usamos a tag <form>.
+
+HTML
+<form>
+  <label>Nome do Herói:</label>
+  <input type="text" placeholder="Ex: Estelar">
+
+  <label>Poder Principal:</label>
+  <input type="text" placeholder="Ex: Raios Estelares">
+
+  <button type="submit">Enviar para a Torre!</button>
+</form>
+Passo 2: O Brilho de Tamaran (CSS)
+Sem o CSS, nosso formulário pareceria uma folha de papel sem vida. Precisamos dar a ele estilo! O CSS usa "seletores" para encontrar o que queremos decorar.
+
+Background-color: Muda a cor do fundo (como o roxo do meu uniforme!).
+
+Padding: Cria um espaço de proteção dentro da caixa, para que o texto não fique "espremido" como se estivesse em uma cela de vilão.
+
+Border-radius: Deixa as bordas arredondadas e suaves.
+
+O Desafio de Treinamento
+Meu querido amigo, para que seu aprendizado seja glorioso, não vou lhe dar o código pronto de decoração. Mas darei uma pista de guerreira!
+
+Se você quisesse que o seu botão de "Enviar" ficasse com o fundo verde (como a minha energia starbolt), qual destas propriedades você acha que deveríamos usar no CSS do botão?
+
+color: green; (Muda a cor da letra)
+
+background-color: green; (Muda a cor do fundo)
+
+Responda com coragem e avançaremos para o próximo nível de estilização! Seu código vai brilhar mais que as luas de Tamaran!
