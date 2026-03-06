@@ -1,6 +1,6 @@
 // seleleção o boão usado a identidade seleceta dele e ususario progrmar
 /* esse são elemetos com id rapaz fazer o codigo fazer ação */ 
-const batao = document.getElementById('batao');
+const batao = document.getElementById('botao');
 const campo_nome = document.getElementById('nome_heroi');
 
  batao.addEventListener("click",function(){
