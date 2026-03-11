@@ -6,11 +6,12 @@
 }
 
 .caixa_1{
-    width: 100px;
+    width: 100px; 
     height: 100px;
     background-color: seagreen;
     align-items: center;
     justify-content: center;
+    font-size: 15px;
     color: whitesmoke;
     font-weight: bold;
     
@@ -23,6 +24,7 @@
      align-items: center;
     justify-content: center;
     color: whitesmoke;
+    font-size: 15px;
     font-weight: bold;
     
 }
@@ -34,5 +36,6 @@
      align-items: center;
     justify-content: center;
     color: whitesmoke;
+    font-size: 15px;
     font-weight: bold;
 }
